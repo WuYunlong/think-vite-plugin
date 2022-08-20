@@ -1,3 +1,3 @@
 ### Think Vite Plugin
 
-> ThinkPHP vite plugin
+> ThinkPHP Vite Plugin
